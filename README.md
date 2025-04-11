@@ -9,7 +9,7 @@ In constructing the Word Search Game, we leveraged React and Node.js for the fro
 - Check out our [product announcement](https://github.com/warrenlyr/CSS566-Final-Project/tree/master/Documentation/Product%20Announcement)!
 - Our project is deployed [here](https://word-search-game-mya5y.ondigitalocean.app/) as of 5/26/2023, we may shut this server down after this quarter.
 
-# Demo Video: https://www.youtube.com/watch?v=jpVVQ0vFwGw
+## Demo Video: https://www.youtube.com/watch?v=jpVVQ0vFwGw
 
 ## Team Information
 
